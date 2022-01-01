@@ -1,6 +1,6 @@
 ## Welcome to Helin Yang Home Pages
 
-Dr. Helin Yang
+Dr. Helin Yang,
 Associate  Professor, Department of Information and Communication Engineering, School of Informatics, Xiamen University
 Address: Haiyun Campus, Xiamen University, Xiamen 361005, China P.R.
 E-mail: helinyang066@xmu.edu.cn
@@ -32,9 +32,13 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 
 ## Selected  Conferences
 • Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, Helin, Yang, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021. (Best Paper).
+
 • Helin Yang, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, and Qingqing Wu, “Deep reinforcement learning based intelligent reflecting surface for secure wireless communications” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2020, pp. 1–6.
+
 • Helin Yang, Zehui Xiong, Jun Zhao, Dusit Niyato, Qingqing Wu, Massimo Tornatore, and Stefano Secci, “Intelligent reflecting surface assisted anti-jamming communications based on reinforcement learning” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2020, pp. 1–6.
-• Helin Yang, Chen Chen, Wen-De Zhong, and Arokiaswami Alphones, “QoS-driven optimized design in a new integrated visible light communication and positioning system,” IEEE International Conference on Communications (ICC), pp. 1-6, Dublin, Ireland, Jun. 2020. 
+
+• Helin Yang, Chen Chen, Wen-De Zhong, and Arokiaswami Alphones, “QoS-driven optimized design in a new integrated visible light communication and positioning system,” IEEE International Conference on Communications (ICC), pp. 1-6, Dublin, Ireland, Jun. 2020.
+
 • Helin Yang, Chen Chen, Wen-De Zhong, and Arokiaswami Alphones, “Resource allocation for multi-user integrated visible light communication and positioning systems,” IEEE International Conference on Communications (ICC), pp. 1–6, Shanghai, China, May 2019.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
