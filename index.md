@@ -1,8 +1,11 @@
 ## Welcome to Helin Yang Home Pages
 
 Dr. Helin Yang,
+
 Associate  Professor, Department of Information and Communication Engineering, School of Informatics, Xiamen University
+
 Address: Haiyun Campus, Xiamen University, Xiamen 361005, China P.R.
+
 E-mail: helinyang066@xmu.edu.cn
 
 ## Research Interests
