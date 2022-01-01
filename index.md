@@ -15,7 +15,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 ## Selected Publications
 • *Helin Yang*, Jun Zhao, Zehui Xiong*, Kwok-Yan Lam, Sumei Sun, and Liang Xiao, “Privacy-preserving federated learning for UAV-enabled networks: Learning-based joint scheduling and resource management,” IEEE Journal on Selected Areas in Communications. vol. 39, no. 10, pp. 3144-3159, Oct. 2021.
 
-• <p><b> Helin Yang</b></p>, Zehui Xiong, Jun Zhao*, Dusit Niyato, Chau Yuen, and Ruilong Deng, “Deep reinforcement learning based massive access management for ultra-reliable low-latency communications,” IEEE Transactions on Wireless Communications, vol. 20, no. 5, pp. 2977-2990, May 2021.
+• <b> Helin Yang</b>, Zehui Xiong, Jun Zhao*, Dusit Niyato, Chau Yuen, and Ruilong Deng, “Deep reinforcement learning based massive access management for ultra-reliable low-latency communications,” IEEE Transactions on Wireless Communications, vol. 20, no. 5, pp. 2977-2990, May 2021.
 
 • **Helin Yang**, Zehui Xiong*, Jun Zhao, Dusit Niyato, Qingqing Wu, H. Vincent Poor, and Massimo Tornatore, “Intelligent reflecting surface assisted anti-jamming communications: A fast reinforcement learning approach,” IEEE Transactions on Wireless Communications, vol. 20, no. 3, pp. 1963-1974, Mar. 2021. 
 
