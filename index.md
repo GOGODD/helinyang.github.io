@@ -1,5 +1,11 @@
 ## Welcome to Helin Yang Home Pages
-Dr. Helin Yang 杨和林
+Dr. Helin Yang
+Associate  Professor, Department of Information and Communication Engineering, School of Informatics, Xiamen University
+Address: Haiyun Campus, Xiamen University, Xiamen 361005, China P.R.
+E-mail: helinyang066@xmu.edu.cn
+
+## Research Interests
+Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Communication (VLC), intelligent reflecting surface, UAV  Communication.
 
 
 ### Markdown
@@ -11,7 +17,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3 dfasdf sadf sdf  水电费网费分分为分为 
+### Header 3 dfasdf sadf sdf
 
 - Bulleted
 - List
@@ -25,7 +31,7 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-uik8i76 予以图一天6
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GOGODD/helinyang066.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
