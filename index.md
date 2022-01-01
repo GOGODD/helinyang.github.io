@@ -35,7 +35,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 
 • **Helin Yang***, Wen-De. Zhong, Chen Chen, and Xianzhong Xie, “Deep reinforcement learning based energy-efficient resource management for social and cognitive internet of things,” IEEE Internet of Things Journal, vol. 7, no. 6, pp. 5677-5689, Jun. 2020. 
 
-• Helin Yang and Xianzhong Xie*, “Energy-efficient joint scheduling and resource management for UAV-enabled multicell networks,” IEEE Systems Journal, vol. 14, no. 1, pp. 363-374, Mar. 2020. 
+• **Helin Yang** and Xianzhong Xie*, “Energy-efficient joint scheduling and resource management for UAV-enabled multicell networks,” IEEE Systems Journal, vol. 14, no. 1, pp. 363-374, Mar. 2020. 
 
 • **Helin Yang** and Xianzhong Xie*, “An actor-critic deep reinforcement learning approach for transmission scheduling in cognitive internet of things systems,” IEEE Systems Journal, vol. 14, no. 1, pp. 51-60, Mar. 2020. 
 
@@ -52,7 +52,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 • **Helin Yang**, Chen Chen*, and Wen-De. Zhong, “Cognitive multi-cell visible light communication with hybrid underlay/overlay resource allocation,” IEEE Photonics Technology Letters, vol. 30, no. 12, pp. 1135-1138, Jun. 2018. 
 
 ## Selected  Conferences
-• Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, Helin, Yang, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021. `(Best Paper)`.
+• Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, **Helin Yang**, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021. ``(Best Paper)``.
 
 • **Helin Yang**, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, and Qingqing Wu, “Deep reinforcement learning based intelligent reflecting surface for secure wireless communications” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2020, pp. 1–6.
 
