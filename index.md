@@ -19,7 +19,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 
 • **Helin Yang**, Zehui Xiong*, Jun Zhao, Dusit Niyato, Qingqing Wu, H. Vincent Poor, and Massimo Tornatore, “Intelligent reflecting surface assisted anti-jamming communications: A fast reinforcement learning approach,” IEEE Transactions on Wireless Communications, vol. 20, no. 3, pp. 1963-1974, Mar. 2021. 
 
-• **Helin Yang**, Zehui Xiong, Jun Zhao*, Dusit Niyato, Qingqing Wu, and Liang Xiao, “Deep reinforcement learning-based intelligent reflecting surface for secure wireless communications,” IEEE Transactions on Wireless Communications, vol. 20, no. 1, pp. 375-388, Jan. 2021. $\color{red}{ESI Highly Cited Paper}$  
+• **Helin Yang**, Zehui Xiong, Jun Zhao*, Dusit Niyato, Qingqing Wu, and Liang Xiao, “Deep reinforcement learning-based intelligent reflecting surface for secure wireless communications,” IEEE Transactions on Wireless Communications, vol. 20, no. 1, pp. 375-388, Jan. 2021.   $\textcolor{Blue}{ESI Highly Cited Paper} $
 
 • **Helin Yang**, Wen-De. Zhong, Chen Chen*, Arokiaswami Alphones, Pengfei Du, Sheng Zhang, and Xianzhong Xie, “Coordinated resource allocation-based integrated visible light communication and positioning systems for indoor IoT.” IEEE Transactions on Wireless Communications, vol. 19, no. 7, pp. 4671-4684, Jul. 2020.
 
@@ -52,7 +52,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Commu
 • **Helin Yang**, Chen Chen*, and Wen-De. Zhong, “Cognitive multi-cell visible light communication with hybrid underlay/overlay resource allocation,” IEEE Photonics Technology Letters, vol. 30, no. 12, pp. 1135-1138, Jun. 2018. 
 
 ## Selected  Conferences
-• Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, **Helin Yang**, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021.  $\color{red}{Best Paper}$.
+• Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, **Helin Yang**, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021.   $\textcolor{Blue}{Best Paper} $.
 
 • **Helin Yang**, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, and Qingqing Wu, “Deep reinforcement learning based intelligent reflecting surface for secure wireless communications” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2020, pp. 1–6.
 
