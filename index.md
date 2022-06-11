@@ -55,6 +55,8 @@ Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication,
 • **Helin Yang**, Chen Chen*, and Wen-De. Zhong, “Cognitive multi-cell visible light communication with hybrid underlay/overlay resource allocation,” IEEE Photonics Technology Letters, vol. 30, no. 12, pp. 1135-1138, Jun. 2018. 
 
 ## Selected  Conferences
+• **Helin Yang**, Helin Yang, Kwok-Yan Lam, Jiangtian Nie, Jun Zhao, Sahil Garg, Liang Xiao, Zehui Xiong, and Mohsen Guizani, “3D beamforming based on deep learning for secure communication in 5G and beyond wireless networks” IEEE Global Communications Conference Workshops (GC Wkshps), Madrid, Spain, Dec. 2021, pp. 1–6.  **Best Paper**
+
 • Wen Liu, Maochan Liang, Jiangtian Nie, Xianjun Deng, Zehui Xiong, Jiawen Kang, **Helin Yang**, Yang, Zhang ,Intelligent Data-Driven Vessel Trajectory Prediction in MaritimeTransportation Cyber-Physical System, 2021 IEEE Intern ational Conference on Cyber, Physical and Social Computing, Australia, Dec. 2021.  **Best Paper**
 
 • **Helin Yang**, Yang Zhao, Zehui Xiong, Jun Zhao, Dusit Niyato, Kwok-Yan Lam, and Qingqing Wu, “Deep reinforcement learning based intelligent reflecting surface for secure wireless communications” IEEE Global Communications Conference (GLOBECOM), Taipei, Taiwan, Dec. 2020, pp. 1–6.
