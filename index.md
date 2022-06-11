@@ -1,7 +1,7 @@
 ## Welcome to Helin Yang Home Pages
 
 
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/45284326/173179583-836a4abc-d4fd-4bfc-9a81-5b08b54ce0e1.jpg)" width="200" />
+<img src="https://user-images.githubusercontent.com/45284326/173179711-13b723ef-1af7-4f0b-9a33-a810b0ad8d4c.jpg" width="200" />
 
 Dr. Helin Yang
 
