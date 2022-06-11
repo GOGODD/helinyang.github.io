@@ -9,7 +9,7 @@ Address: Haiyun Campus, Xiamen University, Xiamen 361005, China P.R.
 E-mail: helinyang066@xmu.edu.cn
 
 ## Research Interests
-Wireless Communications (5G/6G), Ingelligent Communications, Visible Light Communication (VLC), Intelligent Reflecting Surface, UAV  Communication.
+Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication, Algorithm Optimization, Resource Management, Edge Compupting
 
 
 ## Selected Publications
