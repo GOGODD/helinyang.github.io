@@ -16,6 +16,11 @@ Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication,
 
 
 ## Selected Publications
+
+• **Helin Yang**, Kwok-Yan Lam, Liang Xiao, Zehui Xiong, Hao Hu, Dusit Niyato, and H. Vincent Poor. Lead federated neuromorphic learning for wireless edge artificial intelligence. Nature Communication, 13, 4269, 2022. 
+
+• **Helin Yang**, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, and Liang Xiao, “Distributed deep reinforcement learning based spectrum and power allocation for heterogeneous networks.” IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3153175, 2022.
+
 • **Helin Yang**, Jun Zhao, Zehui Xiong*, Kwok-Yan Lam, Sumei Sun, and Liang Xiao, “Privacy-preserving federated learning for UAV-enabled networks: Learning-based joint scheduling and resource management,” IEEE Journal on Selected Areas in Communications. vol. 39, no. 10, pp. 3144-3159, Oct. 2021.
 
 • **Helin Yang**, Zehui Xiong, Jun Zhao*, Dusit Niyato, Chau Yuen, and Ruilong Deng, “Deep reinforcement learning based massive access management for ultra-reliable low-latency communications,” IEEE Transactions on Wireless Communications, vol. 20, no. 5, pp. 2977-2990, May 2021.
