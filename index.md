@@ -19,7 +19,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication,
 
 • **Helin Yang**, Kwok-Yan Lam, Liang Xiao, Zehui Xiong, Hao Hu, Dusit Niyato, and H. Vincent Poor. Lead federated neuromorphic learning for wireless edge artificial intelligence. Nature Communication, 13, 4269, 2022. 
 
-• **Helin Yang**, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, and Liang Xiao, “Distributed deep reinforcement learning based spectrum and power allocation for heterogeneous networks.” IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3153175, 2022.
+• **Helin Yang**, Jun Zhao, Kwok-Yan Lam, Zehui Xiong, Qingqing Wu, and Liang Xiao, “Distributed deep reinforcement learning based spectrum and power allocation for heterogeneous networks.” IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 6935-6948, Sept. 2022.
 
 • **Helin Yang**, Jun Zhao, Zehui Xiong*, Kwok-Yan Lam, Sumei Sun, and Liang Xiao, “Privacy-preserving federated learning for UAV-enabled networks: Learning-based joint scheduling and resource management,” IEEE Journal on Selected Areas in Communications. vol. 39, no. 10, pp. 3144-3159, Oct. 2021.
 
@@ -33,7 +33,7 @@ Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication,
 
 • **Helin Yang**, Arokiaswami Alphones, Wen-De. Zhong, Chen Chen*, and Xianzhong Xie, “Learning-based energy-efficient resource management by heterogeneous RF/VLC for ultra-reliable low-latency industrial IoT networks,” IEEE Transactions on Industrial Informatics, vol. 16, no. 8, pp. 5565-5576, Aug. 2020. 
 
-• **Helin Yang**, Arokiaswami Alphones, Zehui Xiong*, Dusit Niyato, Jun Zhao, and Kaishun Wu, “Artificial intelligence-enabled intelligent 6G networks”, IEEE Network, vol. 34, no. 6, pp. 272-280, Nov. 2020. 
+• **Helin Yang**, Arokiaswami Alphones, Zehui Xiong*, Dusit Niyato, Jun Zhao, and Kaishun Wu, “Artificial intelligence-enabled intelligent 6G networks”, IEEE Network, vol. 34, no. 6, pp. 272-280, Nov. 2020.  **ESI Highly Cited Paper 1%**
 
 • **Helin Yang**, Xianzhong Xie, and Michel Kadoch, “Machine learning techniques and a case study for intelligent wireless networks,” IEEE Network, vol. 34, no. 3, pp. 208-215, May 2020. 
 
@@ -72,8 +72,21 @@ Wireless Communications (5G/6G), Ingelligent Communications, UAV  Communication,
 
 • **Helin Yang**, Chen Chen, Wen-De Zhong, and Arokiaswami Alphones, “Resource allocation for multi-user integrated visible light communication and positioning systems,” IEEE International Conference on Communications (ICC), pp. 1–6, Shanghai, China, May 2019.
 
+
+## Selected Publications as co-authors
+• Xiaoyu Ou, Xianzhong Xie, Huabing Lu, and Helin Yang, “Resource Allocation in MU-MISO Rate-Splitting Multiple Access With SIC Errors for URLLC Services,” IEEE Transactions on Communications, vol. 71, no. 1, pp. 229-243, Jan. 2023.
+• Yilin Xiao, Liang Xiao, Kunpeng Wan, Helin Yang, Yi Zhang, Yi Wu and Yanyong Zhang, “Reinforcement Learning Based Energy-Efficient Collaborative Inference for Mobile Edge Computing,” IEEE Transactions on Communications, vol. 71, no. 2, pp. 864-876, Feb. 2023.
+• Xianzhong Xie, Hong Tang, Helin Yang, Qian Huang, and Dong Pu, “Intelligent Reflecting Surface Assisted Wireless Information and Power Transfer With X-Duplex for 6G Networks,” IEEE Systems Journal, vol. 16, no. 4, pp. 5894-5905, Dec. 2022.
+• Xiaoyu Ou, Xianzhong Xie, Huabing Lu, Helin Yang, and Hong Tang, “Energy-Efficient Resource Allocation for Short Packet Transmission in MISO Multicarrier NOMA,” IEEE Transactions on Vehicular Technology, vol. 71, no. 12, pp. 12797-12810, Dec. 2022.
+• Liang Xiao, Siyuan Hong, Shiyu Xu, Helin Yang, and Xiangyang Ji, “IRS-Aided Energy-Efficient Secure WBAN Transmission Based on Deep Reinforcement Learning,” IEEE Transactions on Communications, vol. 70, no. 6, pp. 4162-4174, June 2022.
+• Huabing Lu, Xianzhong Xie, Zhaoyuan Shi, Hongjiang Lei, Helin Yang and Jun Cai, “Advanced NOMA Assisted Semi-Grant-Free Transmission Schemes for Randomly Distributed Users,” IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2022.3227555.
+• Zhaoyuan Shi, Xianzhong Xie, Huabing Lu, Helin Yang, Jun Cai and Zhiguo Ding, “Deep Reinforcement Learning-Based Multidimensional Resource Management for Energy Harvesting Cognitive NOMA Communications,” IEEE Transactions on Communications, vol. 70, no. 5, pp. 3110-3125, May 2022.
+• Chen Chen, Wen-De Zhong, Helin Yang, and Pengfei Du, “On the Performance of MIMO-NOMA-Based Visible Light Communication Systems,” IEEE Photonics Technology Letters, vol. 30, no. 4, pp. 307-310, 15 Feb.15, 2018. **(ESI Highly Cited Paper Top 1%)**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## Book
+• Liang Xiao, Helin Yang, Weihua Zhuang, Minghui Min, “Reinforcement Learning for Maritime Communications”, Springer, 2023, ISBN: 978-3-031-32137-5.
+• Xianzhong Xie and Helin Yang. “Chapter 2: A Survey on Joint Routing and Dynamic Spectrum Access in Cognitive Radio Networks,” in “Cognitive Networks: Applications and Deployments”, 2014, ISBN: 9780429161285.
 
 **Bold** and _Italic_ and `Code` text
 
